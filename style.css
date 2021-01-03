@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(216, 115, 115);
+
+}
+form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+}
+
+.frcrd{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid rgb(173, 169, 169);
+    border-radius: 0 16px 0 16px;
+    box-shadow: 0 2.8px 2.2px rgba(203, 223, 157, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+    width: 400px;
+    height: 500px;
+    margin-top: 50px;
+    background-color: aliceblue;
+}
+.final{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid rgb(173, 169, 169);
+    border-radius: 0 16px 0 16px;
+    background-color: aliceblue;
+
+}
+.cont{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.crdcont{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.buttonn{
+    background-color: rgb(31, 231, 164);
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+.buttonn:hover{
+    background-color: rgb(228, 52, 125);
+    border: 2px rgb(0, 255, 21) solid;
+
+}
