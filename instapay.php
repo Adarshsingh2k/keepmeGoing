@@ -16,7 +16,7 @@ if(isset($_POST['purpose']) && isset($_POST['name']) && isset($_POST['email']) &
             "amount" => $_POST['amount'],
             "send_email" => true,
             "email" => $_POST['email'],
-            "redirect_url" => "http://localhost/taskone/success.php"
+            "redirect_url" => "https://focused-volhard-5b57d6.netlify.app/"
             ));
         header('Location:'. $response['longurl']);
     }
