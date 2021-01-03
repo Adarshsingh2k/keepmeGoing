@@ -11,12 +11,12 @@ Integration</h1>
         <li>Once the payment is done and invoice will be generated and
 email will be sent to the user for the payment received. The
 invoice will contain the amount. </li>
-        <li>On any page / email, only basic information is needed. </li>
+        <li>On any page / email, only basic information is needed. </li></ul>
 
        
 
     
-    </ul>
+    
 
 
 
